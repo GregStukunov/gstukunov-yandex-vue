@@ -1,0 +1,9 @@
+.idea
+.idea/*
+.idea/workspace.xml
+!.idea/codeStyleSettings.xml
+!.idea/jsLinters
+!.idea/inspectionProfiles
+!.idea/fileTemplates
+node_modules
+dist
